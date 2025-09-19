@@ -40,9 +40,4 @@ public class InheritanceDemo {
 
 
     }
-
-//    Print o
-//            Print “Monthly Pay” followed by a listing of the monthly pay for each employee followed by the total monthly pay for all employees
-//    Print the monthly pay for each employee using code similar to the following: printf("%s: $%,.2f\n", employee.getName(), employee.getMonthlyPay())
-//    Print the total pay for all employees using code similar to the following: printf("Total Monthly Pay: $%,.2f", totalPay)
 }
